@@ -1,0 +1,20 @@
+# --- Coleta e Fonte de Dados ---
+# Biblioteca para extração de dados financeiros do Yahoo Finance
+yfinance>=0.2.36
+requests>=2.31.0
+
+# --- Processamento e Manipulação (Data Engineering) ---
+# Manipulação de Dataframes e arrays
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Engine para leitura e escrita otimizada de arquivos Parquet
+pyarrow>=15.0.0
+
+# --- Integração com AWS (Cloud) ---
+# SDK oficial da AWS para Python (S3, Glue, Lambda)
+boto3>=1.34.0
+
+# --- Utilitários de Desenvolvimento Local ---
+# Carrega variáveis de ambiente de arquivo .env (Segurança para testes locais)
+python-dotenv>=1.0.1
