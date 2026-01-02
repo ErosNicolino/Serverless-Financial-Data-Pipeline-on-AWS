@@ -34,7 +34,7 @@ Projeto desenvolvido com foco em **escalabilidade**, **baixo custo operacional**
 
 ## 🏗️ Arquitetura da Solução
 
-![Diagrama de Arquitetura](assets/Diagrama.jpg)
+![Diagrama de Arquitetura](assets/Diagrama.png)
 
 ### 🔄 Fluxo do Pipeline
 
@@ -65,7 +65,7 @@ Projeto desenvolvido com foco em **escalabilidade**, **baixo custo operacional**
 
 ### 🔍 Consulta Final (Athena)
 
-![Athena](assets/Resultado%20Final.png)
+![Athena](assets/AWS%20Resultado%20Final.png)
 
 ---
 
