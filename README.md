@@ -106,6 +106,7 @@ python src_local/validacao.py
 SELECT
     symbol,
     data_particao,
+    dias_desde_pregao,
     valor_fechamento,
     volume_negociado,
     media_movel_7d,
